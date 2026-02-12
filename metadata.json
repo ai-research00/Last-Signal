@@ -1,0 +1,8 @@
+
+{
+  "name": "Last Signal: Rogue Sector - Production Edition",
+  "description": "High-stakes tactical survival with a persistent economy, real-time enemy logic, and endless scaling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
